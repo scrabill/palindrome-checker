@@ -59,3 +59,5 @@ I am currently experimenting to see if my thoughts on this are correct and if ca
 In the meantime, enjoy this very simple webpage that confirm if the input string is a true palindrome or not. 
 
 > [shannoncrabill.com/palindrome-checker/](http://shannoncrabill.com/palindrome-checker/)
+
+![Screenshot of palindrome checker](/palindrome-checker-preview.png)
