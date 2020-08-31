@@ -5,8 +5,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     submit.addEventListener('click', (event) => {
         event.preventDefault()
-        isPalindrome(input.value)
-        input.value = ''
+        if (input.value == "") {
+            alert("You did not enter any text. Try again.")
+        } else {
+            isPalindrome(input.value)
+            input.value = ''
+        }
     });
     
 });
