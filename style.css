@@ -6,4 +6,9 @@ body {
     text-align: center;
     margin: 30vh 0;
 }
+
+/* Styling for Github Corner: https://tholman.com/github-corners/ */
+
+svg {
+    fill: #444444;
 }
